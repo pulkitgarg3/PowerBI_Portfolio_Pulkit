@@ -37,8 +37,8 @@ A comprehensive multi-page Power BI dashboard analyzing United Airlines' flight 
 
 | File | Description |
 |------|-------------|
-| [`United-Airlines.pbix`](./United Airlines PowerBI Report.pbix) | Full Power BI report file |
-| [`DelayDashboard.pdf`](./United Airlines PowerBI Report.pdf) | Exported PDF of all dashboard pages |
+| [`United-Airlines.pbix`](Flights_Delay_Analytics/United Airlines PowerBI Report.pbix) | Full Power BI report file |
+| [`DelayDashboard.pdf`](Flights_Delay_Analytics/United Airlines PowerBI Report.pdf) | Exported PDF of all dashboard pages |
 | [`/screenshots/`](./screenshots/) | High-res images of visuals for preview or portfolio |
 
 ---
@@ -53,7 +53,7 @@ A comprehensive multi-page Power BI dashboard analyzing United Airlines' flight 
 
 ## 📷 Preview
 
-<img src=".screenshots/page1_dashboard_overview.jpg" alt="Dashboard Page 1" width="800"/>
+<img src="Flights_Delay_Analytics/screenshots/page1_dashboard_overview.jpg" alt=" Dashboard Page 1" width="800"/>
 
 ---
 
