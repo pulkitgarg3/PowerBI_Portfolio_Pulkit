@@ -37,8 +37,8 @@ This multi-page Power BI dashboard dives deep into United Airlines' flight perfo
 
 | File | Description |
 |------|-------------|
-| [`United Airlines PowerBI Report.pbix`](United Airlines PowerBI Report.pbix) | Full Power BI report file |
-| [`United Airlines PowerBI Report.pdf`](United Airlines PowerBI Report.pdf) | Exported PDF of all report pages |
+| [`United Airlines PowerBI Report.pbix`](/United Airlines PowerBI Report.pbix) | Full Power BI report file |
+| [`United Airlines PowerBI Report.pdf`](/United Airlines PowerBI Report.pdf) | Exported PDF of all report pages |
 | [`/screenshots/`](screenshots) | High-res page images for portfolio use |
 
 ---
@@ -53,7 +53,7 @@ This multi-page Power BI dashboard dives deep into United Airlines' flight perfo
 
 ## 📷 Preview
 
-<img src="screenshots/page1_dashboard_overview.png" alt="Dashboard Page 1" width="800"/>
+<img src="screenshots/page1_dashboard_overview.jpg" alt="Dashboard Page 1" width="800"/>
 
 ---
 
