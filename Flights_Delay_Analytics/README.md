@@ -53,7 +53,7 @@ A comprehensive multi-page Power BI dashboard analyzing United Airlines' flight 
 
 ## 📷 Preview
 
-<img src=".screenshots/page1_dashboard_overview.jpg)" alt="Dashboard Page 1" width="800"/>
+<img src=".screenshots/page1_dashboard_overview.jpg" alt="Dashboard Page 1" width="800"/>
 
 ---
 
